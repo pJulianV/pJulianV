@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @pJulianV
-- 👀 I’m a python and MERN developer
-- 🌱 I’m currently learning back-end
-- 💞️ I’m looking to collaborate on learning or web development repositories.
+Python and MERN developer
 - 📫 How to reach me: via email julianvargastrb@gmail.com
 
 <!---
