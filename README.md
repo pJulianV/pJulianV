@@ -13,7 +13,7 @@ Hi there! 👋 I'm Julian I'm a Python Developer specializing in data analytics,
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pJulianV&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=pJulianV&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pJulianV&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pJulianV&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
